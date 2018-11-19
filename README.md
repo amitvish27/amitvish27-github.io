@@ -1,2 +1,2 @@
-# amitvish27-github.io
+# amitvish27.github.io
 github.io webpage
